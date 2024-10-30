@@ -1,5 +1,4 @@
 # plag_chaker
-# PlagChaker
 
 PlagChaker is a plagiarism detection tool that checks the similarity between two text files by analyzing their content and structure. The tool utilizes a linked list data structure and implements a merge sort algorithm to efficiently compare and rank similarities.
 
